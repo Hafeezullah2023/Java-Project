@@ -7,8 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ProjectApplication {
 
 	public static void main(String[] args) {
+		System.out.println("Am trying to work on it... will upload when i am done")
 		SpringApplication.run(ProjectApplication.class, args);
+
 	}
 
 }
-
